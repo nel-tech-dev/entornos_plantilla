@@ -1,0 +1,1 @@
+obj_cambiar_modo.image_alpha=1;

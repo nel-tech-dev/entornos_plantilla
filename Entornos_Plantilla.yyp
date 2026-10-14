@@ -1,0 +1,51 @@
+{
+  "$GMProject":"v1",
+  "%Name":"Entornos_Plantilla",
+  "AudioGroups":[
+    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+  "configs":{
+    "children":[],
+    "name":"Default",
+  },
+  "defaultScriptType":1,
+  "Folders":[
+    {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Interactuables","folderPath":"folders/Objects/Interactuables.yy","name":"Interactuables","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Jugador","folderPath":"folders/Objects/Jugador.yy","name":"Jugador","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Rooms","folderPath":"folders/Rooms.yy","name":"Rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Casillas","folderPath":"folders/Sprites/Casillas.yy","name":"Casillas","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Elementos Interactuables","folderPath":"folders/Sprites/Elementos Interactuables.yy","name":"Elementos Interactuables","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Cambiar Modo","folderPath":"folders/Sprites/Elementos Interactuables/Cambiar Modo.yy","name":"Cambiar Modo","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Jugador","folderPath":"folders/Sprites/Jugador.yy","name":"Jugador","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Tiles_Sets","folderPath":"folders/Tiles_Sets.yy","name":"Tiles_Sets","resourceType":"GMFolder","resourceVersion":"2.0",},
+  ],
+  "ForcedPrefabProjectReferences":[],
+  "IncludedFiles":[],
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"2026.0.0.16",
+  },
+  "name":"Entornos_Plantilla",
+  "resources":[
+    {"id":{"name":"obj_cambiar_modo","path":"objects/obj_cambiar_modo/obj_cambiar_modo.yy",},},
+    {"id":{"name":"obj_jugador","path":"objects/obj_jugador/obj_jugador.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_jugador","path":"sprites/spr_jugador/spr_jugador.yy",},},
+    {"id":{"name":"spr_plataforma","path":"sprites/spr_plataforma/spr_plataforma.yy",},},
+    {"id":{"name":"spr_tile_set","path":"sprites/spr_tile_set/spr_tile_set.yy",},},
+    {"id":{"name":"spr_top_down","path":"sprites/spr_top_down/spr_top_down.yy",},},
+    {"id":{"name":"ts_placeholder_blocks","path":"tilesets/ts_placeholder_blocks/ts_placeholder_blocks.yy",},},
+  ],
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "templateType":"game",
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+}
